@@ -56,7 +56,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 - **Features**: User authentication, CRUD operations, search & filtering
 - **Focus**: Enhanced UX and accessibility
 
-## 💡 Performance Optimizations
+## Performance Optimizations
 
 - **Minimal Dependencies** - Pure HTML/CSS for fast loading
 - **Optimized Images** - Compressed and responsive images
@@ -67,14 +67,15 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 [View Live Portfolio](https://saminul-amin.github.io/portfolio-html/)
 
-## 📧 Contact
+## Contact Me
 
 - **Email**: [saminul.amin@gmail.com](mailto:saminul.amin@gmail.com)
 - **LinkedIn**: [Md. Saminul Amin](https://www.linkedin.com/in/md-saminul-amin-91605730a/)
 - **GitHub**: [saminul-amin](https://github.com/saminul-amin)
+- **Portfolio**: [Saminofolio](https://saminofolio.surge.sh)
 - **Location**: Sylhet, Bangladesh
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - [ ] Implement framework
 - [ ] Add dark/light theme toggle
@@ -84,6 +85,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ---
 
-**Made with ❤️ by MD. Saminul Amin**
+**Made with ❤️ by Md. Saminul Amin**
 
 *If you found this helpful, please give it a star! ⭐*
