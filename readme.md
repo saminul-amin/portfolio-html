@@ -78,7 +78,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 ## Future Enhancements
 
 - [ ] Implement framework
-- [ ] Add dark/light theme toggle
 - [ ] Implement blog section
 - [ ] Add contact form with backend integration
 - [ ] Include more interactive animations
